@@ -2,18 +2,21 @@
 
 ---
 
-### Category Name 1 
+### Projects 
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Text classification to predict which tweets are about real disasters or not](/sample_page)
+More details about it here
+Link to Medium and GitHub
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Design and Development of an Ontology Based e-Tourism Recommender System](https://medium.com/@_aniekan_/knowledge-representation-of-nigerian-tourism-using-ontology-342da28f0b84)
+More details about it here
+Can add images from Medium article
+[Link to code](https://github.com/AniekanInyang/Ng-tourism-ontology)
+
+---
+[Data visualisation portfolio](https://public.tableau.com/profile/aniekaninyang#!/)
+Maybe add an image here
 
 ---
 
