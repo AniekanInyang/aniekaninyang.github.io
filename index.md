@@ -11,6 +11,12 @@ More details about it here
 Link to Medium and GitHub
 
 ---
+[Live data monitoring of covid-10 cases in Nigeria](https://www.stearsng.com/article/live-monitoring-covid-19-cases-in-nigeria)
+<br/>
+More details about it here
+<br/>
+
+---
 [Design and Development of an Ontology Based e-Tourism Recommender System](https://medium.com/@_aniekan_/knowledge-representation-of-nigerian-tourism-using-ontology-342da28f0b84)
 <br/>
 More details about it here
