@@ -1,6 +1,8 @@
 ## Aniekan Inyang
 
-Hi, I'm Aniekan--a data scientist with focus on natural language processing.
+### Hi
+
+I'm Aniekan, a data scientist with focus on natural language processing.
 
 You can ask me about finding a path in data science and building your career.
 
@@ -10,5 +12,5 @@ ___
 
 ### Get in touch
 
-- Twiiter: [@_aniekan_] (https://www.twitter.com/_aniekan_)
+- Twiiter: [@\_aniekan\_](https://www.twitter.com/_aniekan_)
 - email: contactaniekan at gmail dot com
