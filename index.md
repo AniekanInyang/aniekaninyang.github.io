@@ -11,7 +11,7 @@ More details about it here
 Link to Medium and GitHub
 
 ---
-[Live data monitoring of covid-10 cases in Nigeria](https://www.stearsng.com/article/live-monitoring-covid-19-cases-in-nigeria)
+[Live data monitoring of covid-19 cases in Nigeria](https://www.stearsng.com/article/live-monitoring-covid-19-cases-in-nigeria)
 <br/>
 More details about it here
 <br/>
