@@ -29,11 +29,8 @@ Maybe add an image here
 
 ### Category Name 2 (Maybe publications)
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [Medium Blog](https://www.medium.com/@_aniekan_)
+- [GitHub](https://www.github.com/AniekanInyang)
 
 ---
 
