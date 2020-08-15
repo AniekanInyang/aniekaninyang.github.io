@@ -1,10 +1,10 @@
 ## Aniekan Inyang
 
-Hi :wave:, I'm Aniekan-a data scientist with focus on natural language processing.
+Hi :wave: , I'm Aniekan-a data scientist with focus on natural language processing.
 
-You can ask me about finding a path in data science and building your career .
+You can ask me about finding a path in data science and building your career.
 
-I enjoy travelling :airplane: and my values are hardwork, respect, rest, structure and organisation.
+I enjoy travelling :airplane:  and my values are hardwork, respect, rest, structure and organisation.
 
 ___
 
