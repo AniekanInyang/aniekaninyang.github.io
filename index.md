@@ -8,7 +8,7 @@
 <br/>
 More details about it here
 <br/>
-(Link to code)[https://github.com/AniekanInyang/tweet-classification]
+[Link to code](https://github.com/AniekanInyang/tweet-classification) 
 Link to Medium article
 
 ---
