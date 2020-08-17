@@ -42,7 +42,10 @@ Maybe add an image here
 
 ---
 
-## What else?
+### Education
+
+- Link to CV
+- Transcript
 
 
 ---
