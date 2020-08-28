@@ -27,7 +27,8 @@ The aim of this project was developing an ontology for tourism attractions in Ni
 [Data visualisation portfolio](https://public.tableau.com/profile/aniekaninyang#!/)
 <br/>
 Maybe add an image here
-[logo](/images/1688228_1110892445588839_9060117836842109834_n.jpg?raw=true) 
+<br/>
+![Visualisation](/images/Visual.png?raw=true) 
 <br/>
 
 ---
