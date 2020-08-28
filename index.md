@@ -6,11 +6,8 @@
 
 [Text classification to predict which tweets are about real disasters or not](/sample_page)
 <br/>
-More details about it here
-<br/>
+This aim of this project is to solve the fake news problem from the angle of real disasters. Given a dataset of tweets and respective labels, the model should correctly predict whether other tweets are about real or fake disasters.<br/>
 [Link to code](https://github.com/AniekanInyang/tweet-classification)
-<br/>
-Link to Medium article
 
 ---
 [Live data monitoring of covid-19 cases in Nigeria](https://www.stearsng.com/article/live-monitoring-covid-19-cases-in-nigeria)
