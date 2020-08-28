@@ -42,8 +42,8 @@ Maybe add an image here
 
 ### Education
 
-- Link to CV
-- Transcript
+- [CV](https://docs.google.com/document/d/1bQuQMWRWa3_Rd7_5ZPWlhepw9wuI6Zl0DLDW4EIbyPk/edit?usp=sharing)
+- [Transcript](https://drive.google.com/file/d/19tMSBg_4jU_KRpbRhykHv6svkROtuPc7/view?usp=sharing)
 
 
 ---
