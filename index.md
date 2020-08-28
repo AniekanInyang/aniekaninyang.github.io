@@ -33,7 +33,7 @@ Maybe add an image here
 
 ---
 
-### Category Name 2 (Maybe publications)
+### Publications
 
 - [Medium Blog](https://www.medium.com/@_aniekan_)
 - [GitHub](https://www.github.com/AniekanInyang)
