@@ -4,15 +4,16 @@
 
 ### Projects 
 
-[Text classification to predict which tweets are about real disasters or not](/sample_page)
+[Text classification to predict which tweets are about real disasters or not](https://medium.com/@_aniekan_/how-to-use-nlp-to-classify-tweets-89b2493a60d0)
 <br/>
-This aim of this project is to solve the fake news problem from the angle of real disasters. Given a dataset of tweets and respective labels, the model should correctly predict whether other tweets are about real or fake disasters.<br/>
+This aim of this project is to solve the fake news problem from the angle of real disasters. Given a dataset of tweets and respective labels, the model should correctly predict whether other tweets are about real or fake disasters.
+<br/>
 [Link to code](https://github.com/AniekanInyang/tweet-classification)
 
 ---
 [Live data monitoring of covid-19 cases in Nigeria](https://www.stearsng.com/article/live-monitoring-covid-19-cases-in-nigeria)
 <br/>
-More details about it here
+Put together visualisations tracking spread of covid19 virus in Nigeria, deaths, testing and State policy responses. The data is live and collated from the NCDC automatically.
 <br/>
 
 ---
