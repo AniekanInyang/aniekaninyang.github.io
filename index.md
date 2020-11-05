@@ -19,7 +19,7 @@ Put together visualisations tracking spread of covid19 virus in Nigeria, deaths,
 ---
 [Design and Development of an Ontology Based e-Tourism Recommender System](https://medium.com/@_aniekan_/knowledge-representation-of-nigerian-tourism-using-ontology-342da28f0b84)
 <br/>
-The aim of this project was developing an ontology for tourism attractions in Nigeria. The ontology contains information about tourism activities and destinations, hotels, resorts, parks, restaurants and other tourism sites sorted by location within Nigeria. Attributes, instances, relationships, classes and subsclassses will be used in automatically mapping sites to themselves and used in accurately recommending a tourist attraction to a user. The proposed Nigerian Tourism Ontology is based on Ontology Web Language (OWL).
+The aim of this project was developing an ontology for tourism attractions in Nigeria. The ontology contains information about tourism activities and destinations, hotels, resorts, parks, restaurants and other tourism sites sorted by location within Nigeria. Attributes, instances, relationships, classes and subclassses will be used in automatically mapping sites to themselves and used in accurately recommending a tourist attraction to a user. The proposed Nigerian Tourism Ontology is based on Ontology Web Language (OWL).
 <br/>
 [Link to code](https://github.com/AniekanInyang/Ng-tourism-ontology)
 
