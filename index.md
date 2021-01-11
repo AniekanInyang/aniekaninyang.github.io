@@ -43,8 +43,6 @@ A collection of Tableau visualisations done from diverse data
 ### Education
 
 - [CV](https://docs.google.com/document/d/1bQuQMWRWa3_Rd7_5ZPWlhepw9wuI6Zl0DLDW4EIbyPk/edit?usp=sharing)
-- [Transcript](https://drive.google.com/file/d/19tMSBg_4jU_KRpbRhykHv6svkROtuPc7/view?usp=sharing)
-
 
 ---
 
