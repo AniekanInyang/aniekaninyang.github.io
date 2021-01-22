@@ -9,6 +9,7 @@
 This aim of this project is to solve the fake news problem from the angle of real disasters. Given a dataset of tweets and respective labels, the model should correctly predict whether other tweets are about real or fake disasters.
 <br/>
 [Link to code](https://github.com/AniekanInyang/tweet-classification)
+<br/>
 [Second part article for the project](https://drive.google.com/file/d/1KulNqTV1DAPj0GbXdxCcXZ_40gv2U-LF/view?usp=sharing)
 
 ---
