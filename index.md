@@ -4,13 +4,13 @@
 
 ### Projects 
 
-[Text classification to predict which tweets are about real disasters or not](https://drive.google.com/file/d/1BWXctpUn21z7FHcIPKlSmHhtkn9D8DuD/view?usp=sharing)
+[Text classification to predict which tweets are about real disasters or not](https://docs.google.com/document/d/1pLKTwM9J54JF3cQUJQPq_hmh9pEbeg9-WVcxK5_oMY8/edit?usp=sharing)
 <br/>
 This aim of this project is to solve the fake news problem from the angle of real disasters. Given a dataset of tweets and respective labels, the model should correctly predict whether other tweets are about real or fake disasters.
 <br/>
 [Link to code](https://github.com/AniekanInyang/tweet-classification)
 <br/>
-[Second part article for the project](https://drive.google.com/file/d/1KulNqTV1DAPj0GbXdxCcXZ_40gv2U-LF/view?usp=sharing)
+[Second part article for the project](https://docs.google.com/document/d/1cd5SbwHFrMlnSPag31XYD2toNE2tElcPhIJyLNxTPVo/edit?usp=sharing)
 
 ---
 [Live data monitoring of covid-19 cases in Nigeria](https://www.stearsng.com/article/live-monitoring-covid-19-cases-in-nigeria)
@@ -37,7 +37,7 @@ A collection of Tableau visualisations done from diverse data
 
 ### Publications
 
-- [Medium Blog](https://www.medium.com/@_aniekan_)
+- My Medium blog was suspended so I put together some of articles in [this Google Drive] pending when I setup a new blog(https://drive.google.com/drive/folders/1sqgeyLhMloKOL8Pubm_cUf4R3HS52Hz-?usp=sharing)
 - [GitHub](https://www.github.com/AniekanInyang)
 
 ---
