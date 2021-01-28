@@ -37,7 +37,7 @@ A collection of Tableau visualisations done from diverse data
 
 ### Publications
 
-- My Medium blog was suspended so I put together some of articles in [this Google Drive] pending when I setup a new blog(https://drive.google.com/drive/folders/1sqgeyLhMloKOL8Pubm_cUf4R3HS52Hz-?usp=sharing)
+- My Medium blog was suspended so I put together some of articles in [this Google Drive](https://drive.google.com/drive/folders/1sqgeyLhMloKOL8Pubm_cUf4R3HS52Hz-?usp=sharing) pending when I setup a new blog
 - [GitHub](https://www.github.com/AniekanInyang)
 
 ---
