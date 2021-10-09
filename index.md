@@ -10,7 +10,7 @@ This aim of this project is to solve the fake news problem from the angle of rea
 <br/>
 [Link to code](https://github.com/AniekanInyang/tweet-classification)
 <br/>
-[Second part article for the project](https://docs.google.com/document/d/1cd5SbwHFrMlnSPag31XYD2toNE2tElcPhIJyLNxTPVo/edit?usp=sharing)
+[Second part article for the project](https://aniekan.blog/2020/09/08/how-to-use-nlp-to-classify-tweets-part-ii/)
 
 ---
 [Live data monitoring of covid-19 cases in Nigeria](https://www.stearsng.com/article/live-monitoring-covid-19-cases-in-nigeria)
@@ -19,7 +19,7 @@ Put together visualisations tracking spread of covid19 virus in Nigeria, deaths,
 <br/>
 
 ---
-[Design and Development of an Ontology Based e-Tourism Recommender System](https://medium.com/@_aniekan_/knowledge-representation-of-nigerian-tourism-using-ontology-342da28f0b84)
+[Design and Development of an Ontology Based e-Tourism Recommender System](https://aniekan.blog/2019/04/18/knowledge-representation-of-nigerian-tourism-using-ontology/)
 <br/>
 The aim of this project was developing an ontology for tourism attractions in Nigeria. The ontology contains information about tourism activities and destinations, hotels, resorts, parks, restaurants and other tourism sites sorted by location within Nigeria. Attributes, instances, relationships, classes and subclassses will be used in automatically mapping sites to themselves and used in accurately recommending a tourist attraction to a user. The proposed Nigerian Tourism Ontology is based on Ontology Web Language (OWL).
 <br/>
@@ -37,14 +37,14 @@ A collection of Tableau visualisations done from diverse data
 
 ### Publications
 
-- My Medium blog was suspended so I put together some of articles in [this Google Drive](https://drive.google.com/drive/folders/1sqgeyLhMloKOL8Pubm_cUf4R3HS52Hz-?usp=sharing) pending when I setup a new blog
+- [Tech blog] (https://aniekan.blog/category/tech/)
 - [GitHub](https://www.github.com/AniekanInyang)
 
 ---
 
 ### Education
 
-- [CV](https://docs.google.com/document/d/1bQuQMWRWa3_Rd7_5ZPWlhepw9wuI6Zl0DLDW4EIbyPk/edit?usp=sharing)
+- [CV](https://docs.google.com/document/d/1_vvCOQ7-D-qpIKa-ogBuyn-yIzS8OfTfEBIA29RRGlc/edit?usp=sharing)
 
 ---
 
