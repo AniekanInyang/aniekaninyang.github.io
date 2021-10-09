@@ -37,7 +37,7 @@ A collection of Tableau visualisations done from diverse data
 
 ### Publications
 
-- [Tech blog] (https://aniekan.blog/category/tech/)
+- [Tech blog](https://aniekan.blog/category/tech/)
 - [GitHub](https://www.github.com/AniekanInyang)
 
 ---
