@@ -42,9 +42,3 @@ A collection of Tableau visualisations done from diverse data
 
 ---
 
-### Education
-
-- [CV](https://docs.google.com/document/d/1_vvCOQ7-D-qpIKa-ogBuyn-yIzS8OfTfEBIA29RRGlc/edit?usp=sharing)
-
----
-
