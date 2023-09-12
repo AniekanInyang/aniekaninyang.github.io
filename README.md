@@ -1,6 +1,6 @@
 ## Aniekan Inyang
 
-Hi :wave: , I'm Aniekan-a CS graduate student with focus on artificial intelligence.
+Hi :wave: , I'm Aniekan, I'm interested in applications of artificial intelligence and AI robotics.
 
 I enjoy travelling and my values are hardwork, respect, rest, structure and organization.
 
